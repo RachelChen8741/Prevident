@@ -1,0 +1,223 @@
+Org Size,Offered Food,Type,Time,Days,Advertisements,Expected,Actual
+Small (1-50 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Thursday,Listservs,50,40
+Small (1-50 members),Yes,Workshop/Training,"Afternoon (12:00 PM - 4:00 PM),Evening (4:00 PM - 8:00 PM)","Monday,Tuesday,Wednesday",Listservs,24,15
+Small (1-50 members),Yes,Workshop/Training,"Afternoon (12:00 PM - 4:00 PM),Evening (4:00 PM - 8:00 PM)","Monday,Tuesday,Wednesday",Listservs,25,21
+Small (1-50 members),Yes,Conference/Seminar,All-day Event,Friday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",30,25
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Thursday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",30,40
+Small (1-50 members),Yes,Cultural/Festival,Evening (4:00 PM - 8:00 PM),Thursday,"Listservs,Word of mouth",40,30
+Small (1-50 members),Yes,Cultural/Festival,Afternoon (12:00 PM - 4:00 PM),Sunday,"Listservs,Word of mouth",15,22
+Medium (50-200 members),Yes,Workshop/Training,Morning (8:00 AM - 12:00 PM),Sunday,Word of mouth,60,45
+Small (1-50 members),Yes,Cultural/Festival,"Afternoon (12:00 PM - 4:00 PM),Evening (4:00 PM - 8:00 PM)","Friday,Saturday","Word of mouth,Other (please specifiy)",10,7
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Friday,"Listservs,Physical Flyer,Word of mouth",100,60
+Small (1-50 members),Yes,Cultural/Festival,Night (8:00 PM onwards),Saturday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",700,900
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),"Monday,Tuesday","Listservs,Physical Flyer,Instagram/Social media,Word of mouth",90,120
+Small (1-50 members),No,Workshop/Training,Afternoon (12:00 PM - 4:00 PM),Friday,Listservs,20,24
+Small (1-50 members),Yes,Conference/Seminar,Afternoon (12:00 PM - 4:00 PM),Wednesday,Listservs,20,20
+Small (1-50 members),Yes,Conference/Seminar,"Morning (8:00 AM - 12:00 PM),Afternoon (12:00 PM - 4:00 PM),Evening (4:00 PM - 8:00 PM)","Friday,Saturday",Other (please specifiy),82,80
+Medium (50-200 members),Yes,Other (Please specify),Evening (4:00 PM - 8:00 PM),Tuesday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",50,120
+Medium (50-200 members),Yes,Conference/Seminar,All-day Event,Friday,"Listservs,Physical Flyer",100,125
+Large (200+ members),Yes,Workshop/Training,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)",Friday,"Listservs,Other (please specifiy)",60,40
+Large (200+ members),Yes,Social/Networking Event,Night (8:00 PM onwards),Tuesday,"Listservs,Instagram/Social media,Word of mouth",45,75
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Tuesday,"Listservs,Physical Flyer,Instagram/Social media",30,70
+Small (1-50 members),No,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Monday,"Listservs,Physical Flyer",50,40
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Monday,Listservs,51,37
+Small (1-50 members),Yes,Conference/Seminar,Afternoon (12:00 PM - 4:00 PM),Thursday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",55,60
+Small (1-50 members),No,Performance/Exhibition,Evening (4:00 PM - 8:00 PM),Thursday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",200,200
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Saturday,"Listservs,Word of mouth",40,25
+Small (1-50 members),Yes,Cultural/Festival,Night (8:00 PM onwards),Friday,"Word of mouth,Other (please specifiy)",10,10
+Medium (50-200 members),Yes,Workshop/Training,Morning (8:00 AM - 12:00 PM),Saturday,Listservs,70,50
+Medium (50-200 members),Yes,Other (Please specify),Afternoon (12:00 PM - 4:00 PM),Friday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",150,150
+Small (1-50 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Friday,"Listservs,Word of mouth",30,40
+Small (1-50 members),Yes,Cultural/Festival,Afternoon (12:00 PM - 4:00 PM),Thursday,Listservs,20,50
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Tuesday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",60,50
+Small (1-50 members),Yes,Workshop/Training,Afternoon (12:00 PM - 4:00 PM),Friday,Listservs,20,28
+Medium (50-200 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Wednesday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",140,120
+Medium (50-200 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Wednesday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",80,65
+Medium (50-200 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Friday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",250,350
+Medium (50-200 members),Yes,Conference/Seminar,All-day Event,"Tuesday,Wednesday","Listservs,Physical Flyer",150,150
+Large (200+ members),Yes,Social/Networking Event,Night (8:00 PM onwards),Saturday,"Listservs,Word of mouth,Other (please specifiy)",45,12
+Small (1-50 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Thursday,Listservs,27,35
+Medium (50-200 members),Yes,Social/Networking Event,Afternoon (12:00 PM - 4:00 PM),Wednesday,Listservs,80,65
+Medium (50-200 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Friday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",40,25
+Small (1-50 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Monday,Listservs,35,34
+Small (1-50 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Wednesday,Listservs,27,33
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Saturday,"Listservs,Physical Flyer,Instagram/Social media",20,25
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Tuesday,"Listservs,Physical Flyer,Instagram/Social media",30,80
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Tuesday,"Listservs,Physical Flyer,Instagram/Social media",10,38
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Friday,"Listservs,Instagram/Social media,Word of mouth",50,100
+Medium (50-200 members),No,Cultural/Festival,Night (8:00 PM onwards),Saturday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",80,100
+Medium (50-200 members),No,Workshop/Training,Afternoon (12:00 PM - 4:00 PM),Saturday,"Listservs,Word of mouth",60,75
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Saturday,Word of mouth,25,20
+Small (1-50 members),Yes,Workshop/Training,"Afternoon (12:00 PM - 4:00 PM),Evening (4:00 PM - 8:00 PM)",Monday,"Listservs,Physical Flyer,Word of mouth",20,12
+Small (1-50 members),Yes,Academic Competition,"Morning (8:00 AM - 12:00 PM),Afternoon (12:00 PM - 4:00 PM),Evening (4:00 PM - 8:00 PM)",Saturday,"Listservs,Word of mouth",400,400
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Sunday,"Listservs,Instagram/Social media",25,25
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),"Thursday,Friday","Listservs,Instagram/Social media,Word of mouth",30,17
+Small (1-50 members),Yes,Workshop/Training,Evening (4:00 PM - 8:00 PM),Wednesday,"Listservs,Physical Flyer",20,7
+Small (1-50 members),Yes,Social/Networking Event,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)",Monday,"Listservs,Word of mouth",40,50
+Small (1-50 members),No,Workshop/Training,Afternoon (12:00 PM - 4:00 PM),Saturday,"Instagram/Social media,Word of mouth",15,10
+Medium (50-200 members),Yes,Workshop/Training,Afternoon (12:00 PM - 4:00 PM),Sunday,"Listservs,Physical Flyer,Word of mouth",50,30
+Medium (50-200 members),Yes,Workshop/Training,Evening (4:00 PM - 8:00 PM),"Friday,Saturday","Listservs,Physical Flyer,Instagram/Social media",90,70
+Small (1-50 members),Yes,Workshop/Training,"Morning (8:00 AM - 12:00 PM),Night (8:00 PM onwards)",Sunday,Word of mouth,40,30
+Small (1-50 members),Yes,Cultural/Festival,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)",Saturday,Listservs,25,30
+Small (1-50 members),Yes,Workshop/Training,All-day Event,"Friday,Saturday,Sunday","Listservs,Instagram/Social media,Word of mouth",250,200
+Medium (50-200 members),Yes,Conference/Seminar,Morning (8:00 AM - 12:00 PM),Wednesday,Listservs,20,7
+Small (1-50 members),Yes,Conference/Seminar,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)","Tuesday,Wednesday","Listservs,Word of mouth",19,5
+Small (1-50 members),No,Social/Networking Event,Night (8:00 PM onwards),Saturday,Word of mouth,5,4
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Saturday,Word of mouth,30,20
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Friday,Other (please specifiy),25,20
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Saturday,"Listservs,Physical Flyer,Instagram/Social media",100,150
+Small (1-50 members),Yes,Academic Competition,Evening (4:00 PM - 8:00 PM),Thursday,"Listservs,Physical Flyer,Word of mouth",50,45
+Small (1-50 members),Yes,Workshop/Training,Afternoon (12:00 PM - 4:00 PM),Friday,"Physical Flyer,Word of mouth",5,6
+Small (1-50 members),Yes,Social/Networking Event,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)",Saturday,Word of mouth,50,50
+Small (1-50 members),Yes,Social/Networking Event,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)",Saturday,"Listservs,Instagram/Social media,Word of mouth",50,50
+Medium (50-200 members),Yes,Performance/Exhibition,Night (8:00 PM onwards),Friday,"Physical Flyer,Instagram/Social media,Word of mouth",60,80
+Small (1-50 members),Yes,Cultural/Festival,Evening (4:00 PM - 8:00 PM),"Saturday,Sunday","Listservs,Instagram/Social media,Word of mouth",30,20
+Small (1-50 members),Yes,Cultural/Festival,Evening (4:00 PM - 8:00 PM),"Friday,Saturday","Listservs,Physical Flyer,Instagram/Social media,Word of mouth",200,200
+Medium (50-200 members),Yes,Cultural/Festival,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)",Saturday,"Listservs,Instagram/Social media,Word of mouth",75,100
+Small (1-50 members),Yes,Cultural/Festival,Evening (4:00 PM - 8:00 PM),Friday,"Listservs,Physical Flyer,Instagram/Social media",75,40
+Medium (50-200 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Friday,Word of mouth,70,55
+Small (1-50 members),No,Workshop/Training,Night (8:00 PM onwards),Friday,"Listservs,Instagram/Social media,Word of mouth",50,30
+Small (1-50 members),Yes,Social/Networking Event,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)","Wednesday,Thursday,Friday","Listservs,Physical Flyer,Instagram/Social media",50,30
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Saturday,Word of mouth,30,36
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Sunday,Word of mouth,30,25
+Small (1-50 members),Yes,Other (Please specify),Afternoon (12:00 PM - 4:00 PM),Saturday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",30,30
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),"Monday,Tuesday,Thursday","Listservs,Instagram/Social media",50,30
+Small (1-50 members),Yes,Social/Networking Event,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)",Thursday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",200,175
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Tuesday,"Listservs,Word of mouth",20,15
+Small (1-50 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Wednesday,"Listservs,Instagram/Social media,Word of mouth",40,20
+Small (1-50 members),Yes,Conference/Seminar,"Morning (8:00 AM - 12:00 PM),Afternoon (12:00 PM - 4:00 PM),Evening (4:00 PM - 8:00 PM)","Friday,Saturday,Sunday","Listservs,Physical Flyer,Instagram/Social media,Word of mouth",35,47
+Small (1-50 members),Yes,Cultural/Festival,Evening (4:00 PM - 8:00 PM),Friday,Listservs,10,18
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Friday,"Instagram/Social media,Word of mouth",35,24
+Small (1-50 members),Yes,Social/Networking Event,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)",Monday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",50,25
+Medium (50-200 members),Yes,Workshop/Training,Evening (4:00 PM - 8:00 PM),Thursday,"Listservs,Instagram/Social media",30,35
+Small (1-50 members),Yes,Cultural/Festival,Evening (4:00 PM - 8:00 PM),Sunday,"Listservs,Instagram/Social media,Word of mouth",20,30
+Small (1-50 members),No,Conference/Seminar,Afternoon (12:00 PM - 4:00 PM),Friday,"Listservs,Word of mouth",50,30
+Medium (50-200 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Wednesday,"Listservs,Word of mouth,Other (please specifiy)",60,70
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Sunday,"Listservs,Word of mouth",5,10
+Small (1-50 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Wednesday,"Instagram/Social media,Word of mouth,Other (please specifiy)",40,25
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Sunday,"Word of mouth,Other (please specifiy)",14,9
+Small (1-50 members),No,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Friday,Listservs,100,50
+Medium (50-200 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Friday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",30,50
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Friday,Listservs,20,20
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),"Thursday,Friday,Saturday",Listservs,13,9
+Small (1-50 members),Yes,Cultural/Festival,Morning (8:00 AM - 12:00 PM),Tuesday,Other (please specifiy),12,37
+Small (1-50 members),Yes,Cultural/Festival,Afternoon (12:00 PM - 4:00 PM),Saturday,"Listservs,Instagram/Social media,Word of mouth",30,15
+Medium (50-200 members),Yes,Cultural/Festival,Evening (4:00 PM - 8:00 PM),Thursday,"Listservs,Word of mouth",70,50
+Medium (50-200 members),Yes,Social/Networking Event,Night (8:00 PM onwards),"Tuesday,Wednesday","Listservs,Physical Flyer,Word of mouth",30,30
+Small (1-50 members),Yes,Performance/Exhibition,Night (8:00 PM onwards),Friday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",40,60
+Small (1-50 members),No,Performance/Exhibition,Night (8:00 PM onwards),"Wednesday,Thursday","Listservs,Physical Flyer,Instagram/Social media,Word of mouth",20,30
+Small (1-50 members),No,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Thursday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",50,30
+Medium (50-200 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Saturday,Word of mouth,100,80
+Small (1-50 members),Yes,Cultural/Festival,Afternoon (12:00 PM - 4:00 PM),Thursday,Listservs,50,30
+Small (1-50 members),Yes,Cultural/Festival,Evening (4:00 PM - 8:00 PM),Wednesday,Listservs,40,10
+Small (1-50 members),Yes,Cultural/Festival,Evening (4:00 PM - 8:00 PM),"Thursday,Friday",Word of mouth,25,30
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),"Tuesday,Sunday","Instagram/Social media,Word of mouth",10,5
+Small (1-50 members),Yes,Cultural/Festival,Evening (4:00 PM - 8:00 PM),Saturday,Word of mouth,130,110
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Saturday,Word of mouth,40,20
+Medium (50-200 members),Yes,Other (Please specify),Night (8:00 PM onwards),Friday,"Listservs,Physical Flyer,Word of mouth",150,200
+Small (1-50 members),No,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Tuesday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",20,16
+Medium (50-200 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Saturday,Word of mouth,60,80
+Small (1-50 members),No,Performance/Exhibition,Night (8:00 PM onwards),Thursday,Word of mouth,50,40
+Small (1-50 members),Yes,Academic Competition,All-day Event,Saturday,Listservs,100,100
+Small (1-50 members),Yes,Workshop/Training,Evening (4:00 PM - 8:00 PM),Monday,"Listservs,Physical Flyer",40,30
+Small (1-50 members),Yes,Social/Networking Event,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)",Sunday,"Word of mouth,Other (please specifiy)",12,8
+Medium (50-200 members),No,Performance/Exhibition,"Morning (8:00 AM - 12:00 PM),Afternoon (12:00 PM - 4:00 PM),Evening (4:00 PM - 8:00 PM)",Saturday,"Listservs,Instagram/Social media,Word of mouth",200,200
+Small (1-50 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Thursday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",30,20
+Small (1-50 members),No,Workshop/Training,Afternoon (12:00 PM - 4:00 PM),Sunday,"Listservs,Instagram/Social media",10,2
+Small (1-50 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Monday,"Listservs,Word of mouth",25,19
+Medium (50-200 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Wednesday,Listservs,50,100
+Small (1-50 members),Yes,Other (Please specify),Evening (4:00 PM - 8:00 PM),Tuesday,Word of mouth,14,10
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Friday,"Listservs,Physical Flyer,Instagram/Social media",40,55
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Wednesday,"Listservs,Word of mouth",20,12
+Medium (50-200 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Wednesday,"Listservs,Physical Flyer,Word of mouth",80,90
+Small (1-50 members),Yes,Cultural/Festival,Evening (4:00 PM - 8:00 PM),Sunday,Word of mouth,30,20
+Large (200+ members),Yes,Workshop/Training,Afternoon (12:00 PM - 4:00 PM),Saturday,Listservs,100,80
+Medium (50-200 members),Yes,Workshop/Training,All-day Event,"Thursday,Friday,Saturday,Sunday",Listservs,60,60
+Medium (50-200 members),Yes,Cultural/Festival,Night (8:00 PM onwards),Wednesday,"Listservs,Instagram/Social media,Word of mouth",100,70
+Large (200+ members),Yes,Cultural/Festival,Evening (4:00 PM - 8:00 PM),Thursday,"Listservs,Instagram/Social media,Word of mouth",200,250
+Medium (50-200 members),Yes,Cultural/Festival,Evening (4:00 PM - 8:00 PM),"Thursday,Friday","Instagram/Social media,Word of mouth",50,50
+Medium (50-200 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Monday,"Listservs,Instagram/Social media,Word of mouth",80,50
+Small (1-50 members),Yes,Workshop/Training,Evening (4:00 PM - 8:00 PM),Thursday,"Word of mouth,Other (please specifiy)",20,12
+Small (1-50 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Friday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",30,20
+Small (1-50 members),Yes,Performance/Exhibition,Night (8:00 PM onwards),Tuesday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",40,60
+Small (1-50 members),Yes,Social/Networking Event,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)","Thursday,Friday,Saturday","Instagram/Social media,Word of mouth,Other (please specifiy)",15,10
+Small (1-50 members),No,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Friday,"Listservs,Word of mouth",30,30
+Small (1-50 members),Yes,Workshop/Training,Evening (4:00 PM - 8:00 PM),Friday,"Listservs,Word of mouth",50,35
+Medium (50-200 members),Yes,Cultural/Festival,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)","Friday,Saturday,Sunday","Listservs,Physical Flyer,Instagram/Social media,Word of mouth",75,100
+Small (1-50 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Tuesday,"Listservs,Physical Flyer,Instagram/Social media",50,20
+Small (1-50 members),Yes,Academic Competition,All-day Event,"Friday,Saturday,Sunday","Listservs,Physical Flyer,Instagram/Social media,Word of mouth",250,200
+Small (1-50 members),Yes,Other (Please specify),All-day Event,Thursday,Word of mouth,37,37
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Thursday,Listservs,50,30
+Small (1-50 members),Yes,Conference/Seminar,Afternoon (12:00 PM - 4:00 PM),Wednesday,"Listservs,Instagram/Social media",15,10
+Small (1-50 members),Yes,Social/Networking Event,"Afternoon (12:00 PM - 4:00 PM),Evening (4:00 PM - 8:00 PM)",Wednesday,Word of mouth,40,25
+Medium (50-200 members),Yes,Conference/Seminar,"Morning (8:00 AM - 12:00 PM),Afternoon (12:00 PM - 4:00 PM),Evening (4:00 PM - 8:00 PM)",Friday,Listservs,50,47
+Small (1-50 members),Yes,Social/Networking Event,Afternoon (12:00 PM - 4:00 PM),Sunday,Listservs,12,5
+Small (1-50 members),Yes,Performance/Exhibition,Evening (4:00 PM - 8:00 PM),Friday,"Listservs,Physical Flyer,Word of mouth",30,35
+Small (1-50 members),Yes,Workshop/Training,Evening (4:00 PM - 8:00 PM),Wednesday,"Listservs,Instagram/Social media,Word of mouth",25,40
+Small (1-50 members),No,Social/Networking Event,Night (8:00 PM onwards),"Friday,Saturday,Sunday","Listservs,Word of mouth",15,10
+Small (1-50 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Thursday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",50,100
+Medium (50-200 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Wednesday,"Listservs,Instagram/Social media",30,40
+Small (1-50 members),No,Social/Networking Event,"Morning (8:00 AM - 12:00 PM),Afternoon (12:00 PM - 4:00 PM),Evening (4:00 PM - 8:00 PM)",Saturday,"Listservs,Instagram/Social media,Word of mouth",40,15
+Small (1-50 members),Yes,Conference/Seminar,All-day Event,"Monday,Tuesday,Wednesday,Thursday,Friday","Listservs,Other (please specifiy)",100,80
+Small (1-50 members),Yes,Social/Networking Event,Afternoon (12:00 PM - 4:00 PM),Saturday,"Listservs,Physical Flyer,Instagram/Social media",15,31
+Medium (50-200 members),Yes,Conference/Seminar,Afternoon (12:00 PM - 4:00 PM),Tuesday,"Listservs,Physical Flyer,Word of mouth,Other (please specifiy)",65,70
+Small (1-50 members),Yes,Social/Networking Event,"Morning (8:00 AM - 12:00 PM),Afternoon (12:00 PM - 4:00 PM),Evening (4:00 PM - 8:00 PM)",Friday,Other (please specifiy),60,60
+Small (1-50 members),No,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Monday,"Listservs,Instagram/Social media,Word of mouth",80,60
+Medium (50-200 members),No,Cultural/Festival,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)",Friday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth,Other (please specifiy)",150,150
+Small (1-50 members),No,Social/Networking Event,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)","Saturday,Sunday","Listservs,Instagram/Social media,Word of mouth",45,30
+Small (1-50 members),Yes,Performance/Exhibition,Evening (4:00 PM - 8:00 PM),Thursday,Listservs,2,1
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Thursday,"Listservs,Physical Flyer,Other (please specify)",50,45
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Monday,"Listservs,Physical Flyer,Instagram/Social media",50,140
+Small (1-50 members),Yes,Conference/Seminar,Afternoon (12:00 PM - 4:00 PM),Tuesday,"Listservs,Other (please specifiy)",30,29
+Large (200+ members),No,Other (Please specify),Morning (8:00 AM - 12:00 PM),Monday,Word of mouth,33,23
+Small (1-50 members),Yes,Conference/Seminar,Afternoon (12:00 PM - 4:00 PM),Friday,"Listservs,Other (please specifiy)",70,50
+Large (200+ members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Thursday,"Listservs,Physical Flyer",25,20
+Large (200+ members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Friday,"Listservs,Physical Flyer",50,80
+Medium (50-200 members),No,Workshop/Training,Afternoon (12:00 PM - 4:00 PM),Friday,"Listservs,Physical Flyer,Word of mouth",25,3
+Large (200+ members),Yes,Social/Networking Event,Night (8:00 PM onwards),Tuesday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",90,120
+Large (200+ members),Yes,Social/Networking Event,Night (8:00 PM onwards),Tuesday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",40,37
+Large (200+ members),Yes,Social/Networking Event,Night (8:00 PM onwards),Tuesday,"Physical Flyer,Instagram/Social media",20,23
+Large (200+ members),Yes,Social/Networking Event,Night (8:00 PM onwards),Tuesday,"Listservs,Instagram/Social media,Word of mouth",40,40
+Large (200+ members),Yes,Social/Networking Event,Night (8:00 PM onwards),Tuesday,"Listservs,Instagram/Social media,Word of mouth",40,23
+Large (200+ members),Yes,Social/Networking Event,Night (8:00 PM onwards),Tuesday,"Listservs,Instagram/Social media,Word of mouth",30,40
+Large (200+ members),Yes,Social/Networking Event,Night (8:00 PM onwards),Tuesday,"Listservs,Instagram/Social media,Word of mouth",30,100
+Large (200+ members),Yes,Social/Networking Event,Night (8:00 PM onwards),Saturday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",80,20
+Medium (50-200 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Friday,"Listservs,Word of mouth",95,40
+Large (200+ members),Yes,Social/Networking Event,Night (8:00 PM onwards),Wednesday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",100,50
+Medium (50-200 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Friday,Word of mouth,30,30
+Medium (50-200 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Friday,"Listservs,Instagram/Social media,Word of mouth",15,8
+Small (1-50 members),Yes,Social/Networking Event,Afternoon (12:00 PM - 4:00 PM),Friday,Word of mouth,10,15
+Medium (50-200 members),Yes,Workshop/Training,Morning (8:00 AM - 12:00 PM),Sunday,Word of mouth,40,50
+Small (1-50 members),Yes,Workshop/Training,Evening (4:00 PM - 8:00 PM),Wednesday,Listservs,50,25
+Small (1-50 members),Yes,Social/Networking Event,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)",Wednesday,"Listservs,Word of mouth",5,1
+Medium (50-200 members),No,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Thursday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",350,400
+Medium (50-200 members),Yes,Performance/Exhibition,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)",Thursday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",75,130
+Medium (50-200 members),Yes,Performance/Exhibition,Evening (4:00 PM - 8:00 PM),Friday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",20,50
+Small (1-50 members),Yes,Cultural/Festival,Night (8:00 PM onwards),Saturday,Listservs,40,15
+Small (1-50 members),Yes,Workshop/Training,Evening (4:00 PM - 8:00 PM),Sunday,"Listservs,Word of mouth",12,8
+Small (1-50 members),Yes,Workshop/Training,Morning (8:00 AM - 12:00 PM),Thursday,Listservs,30,10
+Small (1-50 members),Yes,Cultural/Festival,Evening (4:00 PM - 8:00 PM),Thursday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",150,200
+Small (1-50 members),Yes,Cultural/Festival,Evening (4:00 PM - 8:00 PM),Friday,Word of mouth,12,9
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Tuesday,"Listservs,Word of mouth",24,17
+Small (1-50 members),Yes,Other (Please specify),"Morning (8:00 AM - 12:00 PM),Afternoon (12:00 PM - 4:00 PM)","Friday,Saturday","Listservs,Physical Flyer,Word of mouth",50,20
+Small (1-50 members),Yes,Cultural/Festival,Night (8:00 PM onwards),Saturday,"Listservs,Physical Flyer,Instagram/Social media,Word of mouth",800,1000
+Small (1-50 members),Yes,Social/Networking Event,"Afternoon (12:00 PM - 4:00 PM),Evening (4:00 PM - 8:00 PM)",Friday,Instagram/Social media,40,30
+Large (200+ members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),"Tuesday,Thursday","Listservs,Instagram/Social media,Word of mouth",200,150
+Small (1-50 members),Yes,Conference/Seminar,Evening (4:00 PM - 8:00 PM),Friday,"Listservs,Instagram/Social media,Word of mouth",30,15
+Small (1-50 members),Yes,Academic Competition,"Morning (8:00 AM - 12:00 PM),Afternoon (12:00 PM - 4:00 PM)",Saturday,"Listservs,Instagram/Social media,Word of mouth",35,45
+Medium (50-200 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Friday,"Listservs,Instagram/Social media,Word of mouth",30,29
+Small (1-50 members),Yes,Social/Networking Event,Evening (4:00 PM - 8:00 PM),Tuesday,"Listservs,Instagram/Social media,Word of mouth",20,20
+Medium (50-200 members),Yes,Conference/Seminar,All-day Event,"Friday,Saturday,Sunday","Instagram/Social media,Word of mouth",100,120
+Small (1-50 members),Yes,Conference/Seminar,Night (8:00 PM onwards),Tuesday,"Listservs,Word of mouth",30,5
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),"Monday,Tuesday","Listservs,Word of mouth",30,30
+Small (1-50 members),Yes,Workshop/Training,Night (8:00 PM onwards),Monday,"Listservs,Word of mouth",30,5
+Small (1-50 members),Yes,Workshop/Training,Night (8:00 PM onwards),Monday,"Listservs,Word of mouth",30,20
+Small (1-50 members),Yes,Workshop/Training,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)",Sunday,"Listservs,Instagram/Social media,Word of mouth",20,3
+Small (1-50 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Saturday,"Listservs,Instagram/Social media,Word of mouth",30,2
+Small (1-50 members),Yes,Cultural/Festival,Evening (4:00 PM - 8:00 PM),Tuesday,"Listservs,Instagram/Social media,Word of mouth",80,30
+Large (200+ members),Yes,Cultural/Festival,"Evening (4:00 PM - 8:00 PM),Night (8:00 PM onwards)",Saturday,"Listservs,Instagram/Social media,Word of mouth",300,250
+Medium (50-200 members),Yes,Social/Networking Event,Night (8:00 PM onwards),Saturday,"Listservs,Word of mouth",300,150
+Large (200+ members),Yes,Social/Networking Event,Night (8:00 PM onwards),Tuesday,"Listservs,Instagram/Social media,Word of mouth",60,75
+Large (200+ members),Yes,Social/Networking Event,Night (8:00 PM onwards),Tuesday,"Listservs,Instagram/Social media,Word of mouth",50,65
+Large (200+ members),Yes,Social/Networking Event,Night (8:00 PM onwards),Tuesday,"Listservs,Instagram/Social media,Word of mouth",60,80
+Large (200+ members),Yes,Social/Networking Event,Night (8:00 PM onwards),Tuesday,"Listservs,Instagram/Social media,Word of mouth",70,90

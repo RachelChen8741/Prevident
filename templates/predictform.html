@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jersey+10&family=Jersey+25&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <title>Event Survey Form</title>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            font-family: "Poppins", sans-serif;
+        }
+
+        .container {
+            background: #fff;
+            width: 80%;
+            margin: 100px auto;
+            padding: 2%;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+
+        h1 {
+            color: #333;
+            font-family: "Poppins", serif;
+        }
+
+        label {
+            margin-right: 20px;
+            display: block;
+            margin-top: 10px;
+        }
+
+        input[type="text"], input[type="email"], input[type="number"], select {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+            box-sizing: border-box;
+        }
+
+        input[type="radio"], input[type="checkbox"] {
+            margin-right: 10px;
+        }
+
+        button {
+            background-color: #e658ce;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            text-align: center;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        button:hover {
+            background-color: #c82fb9;
+        }
+    </style>
+</head>
+<body>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" style="margin-bottom: 50px;"> 
+            <a class="navbar-brand" href="#"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/" style="color:white">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/classifyform" style="color:white">Classify</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/predictform" style="color:#e658ce">Predict</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+<div class="container">
+    <h1 style="font-family: Jersey 25">Event Attendance Predictor</h1>
+    <br>
+    <form action="/predict" method="POST">       
+        <label>Organization size hosting the event:</label>
+        <label><input type="radio" name="Org_Size" value="Small (1-50 members)" required> Small (1-50 members)</label>
+        <label><input type="radio" name="Org_Size" value="Medium (50-200 members)" required> Medium (50-200 members)</label>
+        <label><input type="radio" name="Org_Size" value="Large (200+ members)" required> Large (200+ members)</label>
+        <br>
+        <label>Did your event offer food or refreshments?</label>
+        <label><input type="radio" name="Offered_Food" value="Yes" required> Yes</label>
+        <label><input type="radio" name="Offered_Food" value="No" required> No</label>
+        <br>
+        <label for="Type">Please select the type of event organized.</label>
+        <select id="Type" name="Type" required>
+            <option value="">--Please choose an option--</option>
+            <option value="Conference/Seminar">Conference/Seminar</option>
+            <option value="Workshop/Training">Workshop/Training</option>
+            <option value="Social/Networking Event">Social/Networking Event</option>
+            <option value="Cultural/Festival">Cultural/Festival</option>
+            <option value="Academic Competition">Academic Competition</option>
+            <option value="Performance/Exhibition">Performance/Exhibition</option>
+            <option value="Other">Other</option>
+        </select>
+        <br>
+        <label>Please select the time range(s) that best fit the schedule for your event.</label>
+        <label><input type="checkbox" name="Time" value="Morning (8:00 AM - 12:00 PM)"> Morning (8:00 AM - 12:00 PM)</label>
+        <label><input type="checkbox" name="Time" value="Afternoon (12:00 PM - 4:00 PM)" > Afternoon (12:00 PM - 4:00 PM)</label>
+        <label><input type="checkbox" name="Time" value="Evening (4:00 PM - 8:00 PM)" > Evening (4:00 PM - 8:00 PM)</label>
+        <label><input type="checkbox" name="Time" value="Night (8:00 PM onwards)" > Night (8:00 PM onwards)</label>
+        <label><input type="checkbox" name="Time" value="All-day Event" > All-day Event</label>
+        <br>
+        <label>Please select the day(s) on which your event took place.</label>
+        <label><input type="checkbox" name="Days" value="Monday" > Monday</label>
+        <label><input type="checkbox" name="Days" value="Tuesday" > Tuesday</label>
+        <label><input type="checkbox" name="Days" value="Wednesday" > Wednesday</label>
+        <label><input type="checkbox" name="Days" value="Thursday" > Thursday</label>
+        <label><input type="checkbox" name="Days" value="Friday" > Friday</label>
+        <label><input type="checkbox" name="Days" value="Saturday" > Saturday</label>
+        <label><input type="checkbox" name="Days" value="Sunday" > Sunday</label>
+        <br>
+        <label>How did you advertise the event? (Select all that apply)</label>
+        <label><input type="checkbox" name="Advertisements" value="Listservs" > Listservs</label>
+        <label><input type="checkbox" name="Advertisements" value="Physical Flyer" > Physical Flyer</label>
+        <label><input type="checkbox" name="Advertisements" value="Instagram/Social media" > Instagram/Social media</label>
+        <label><input type="checkbox" name="Advertisements" value="Word of mouth" > Word of mouth</label>
+        <label><input type="checkbox" name="Advertisements" value="Other" > Other</label>
+        <br>
+        <label for="Expected">Expected number of attendees:</label>
+        <input type="number" id="Expected" name="Expected" min="1" required>
+        <br>
+        <button type="submit">Predict!</button>
+    </form>
+    <script>
+        function validateForm() {
+            // Example validation: ensure that at least one 'Days' checkbox is checked
+            var checkboxes = document.querySelectorAll('input[name="Days[]"]:checked');
+            if (checkboxes.length === 0) {
+                alert("Please check at least one day.");
+                return false;
+            }
+            return true;
+        }
+    </script>
+</div>
+
+</body>
+</html>

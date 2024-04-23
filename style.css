@@ -1,0 +1,33 @@
+/* Resets the margin, padding, and sets box-sizing to border-box for all elements */
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-image: url('images/gradient.png'); /* Sets the gradient image as the background */
+    background-size: cover; /* Ensures the background image covers the entire viewport */
+    background-position: center; /* Centers the background image */
+}
+
+header {
+    text-align: center; /* Centers the logo within the header */
+    padding: 20px 0; /* Adds padding around the header */
+}
+
+.center-logo {
+    width: 200px; /* or your desired size */
+    height: auto; /* Maintains the aspect ratio of the image */
+}
+
+.content {
+    text-align: center;
+    padding-top: 20px;
+}
